@@ -34,7 +34,7 @@ The focus is on centromere signal extraction and visualization at prometaphase, 
 -------------------------
 - MATLAB (R2021 or newer)
 - Custom functions required in path:
-  loadTifStack16, centroid, maxfig, sfigure, subplot2, imshow2, plotSpread, etc.
+  loadTifStack16, centroid, maxfig, sfigure, subplot2, imshow2, plotSpread, msum, mmean, countSM, closest
 
 -------------------------
 5. Contact
